@@ -21,10 +21,10 @@ The **master's thesis** can be **consulted** at xxxxxx.
 
 For more information consult:
 
-Vitória Cruz
-Author of the dissertation
+Vitória Cruz,
+Author of the dissertation,
 vicruz99@ua.pt
 
-Sónia Gouveia, PhD Researcher
-Supervisor of the dissertation
+Sónia Gouveia, PhD Researcher,
+Supervisor of the dissertation,
 sonia.gouveia@ua.pt.
