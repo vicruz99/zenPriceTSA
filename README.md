@@ -15,7 +15,7 @@ This repository contains several Jupyter notebooks containing the analysis of th
   **Chapter 5** - forecast price changes (using Markov Chains, Logistic Regression, LSTM, Random Forest and SVM models) and study techniques (e.g. Dynamic Time Warping) for identifying time-varying lead-lad relationships in groups of time series.
 
 ### More information
-The **master's thesis** can be **consulted** at xxxxxx.
+The **master's thesis** can be **consulted** at https://ria.ua.pt/handle/10773/39405?locale=en.
 
 ### Contacts
 
